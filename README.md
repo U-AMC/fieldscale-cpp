@@ -10,7 +10,7 @@ Fieldscale-cpp integrates ROS-noetic (ROS 1) for image transport, processing, an
 
 # Citation
 
-Fieldscale belongs to @HyeonJaeGil. Please refer to his paper for more details
+Fieldscale belongs to [**Hyeonjae Gil**](https://hyeonjaegil.github.io/). Please refer to his paper for more details
 
 ```
 @article{gil2024fieldscale,
