@@ -1,6 +1,8 @@
 # fieldscale-cpp
 Unofficial C++ implementation of fieldscale, with a bit of modification
+
 Accelerated with OpenMP
+
 Utilizes Eigen, OpenCV for speed
 
 # ROS compatibility
