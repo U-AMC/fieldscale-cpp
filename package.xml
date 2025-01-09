@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>fieldscale_publisher</name>
+  <version>0.1.0</version>
+  <description>
+    A ROS package for ORB16 that integrates OpenCV, Eigen, and OpenMP.
+  </description>
+  
+  <maintainer email="your_email@example.com">Your Name</maintainer>
+  <license>BSD</license>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+  
+  <build_depend>roscpp</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>cv_bridge</build_depend>
+  <build_depend>image_transport</build_depend>
+  
+  <exec_depend>roscpp</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>cv_bridge</exec_depend>
+  <exec_depend>image_transport</exec_depend>
+  
+  <export>
+    <build_type>catkin</build_type>
+  </export>
+</package>
