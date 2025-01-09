@@ -1,4 +1,16 @@
-/* Libs are to be updated */
+/* modded and written by U-AMC */
+/* original contents belong to the author of this method */
+#include <ros/ros.h>
+#include <sensor_msgs/Image.h>
+#include <cv_bridge/cv_bridge.h>
+#include <image_transport/image_transport.h>
+#include <opencv2/opencv.hpp>
+#include <opencv2/highgui.hpp>
+#include <opencv2/imgproc.hpp>
+#include <Eigen/Dense>
+#include <vector>
+#include <string>
+#include <iostream>
 
 using namespace cv;
 using namespace std;
